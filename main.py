@@ -4,4 +4,9 @@ def toby(letter):
 
 toby("hello")
 
+def hi(word):
+    print(word)
+
+hi(12)
+
 
