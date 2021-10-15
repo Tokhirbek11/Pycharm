@@ -9,4 +9,9 @@ def hi(word):
 
 hi(12)
 
+def home(address):
+    print(address)
+
+    home("andijan")
+
 
