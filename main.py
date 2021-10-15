@@ -8,10 +8,14 @@ def hi(word):
     print(word)
 
 hi(12)
-
+print("fdf")
 def home(address):
     print(address)
 
     home("andijan")
+
+
+
+
 
 
